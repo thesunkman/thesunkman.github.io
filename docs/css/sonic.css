@@ -109,11 +109,11 @@ h6 {
   color: #0CA838;
 }
 
-#genesis {
-  font-family: Sonic;
-}
 @font-face {
   font-family: Sonic;
   src: url(fonts/sonic.woff);
 }
 
+.font {
+  font-family: Sonic;
+}
