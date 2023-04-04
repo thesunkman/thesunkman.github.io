@@ -177,6 +177,18 @@ h6 {
   margin-right: auto;
 }
 
+#lt {
+  color: #FFFFFF;
+  font-size: 45px
+}
+#lt-img {
+  border: 25px solid #FFFFFF;
+  border-radius: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 a {
   color: #B81424;
   text-align: center
